@@ -1,12 +1,13 @@
-### Hi 👋there is xinanjiao 🥰🥰🥰
+## Hi 👋there is xinanjiao 🥰🥰🥰
   I am currently studying at Chongqing University ⛪️ and pursuing a master's degree 🧑‍🎓.
 
 - 🔭 My current research focus is on machine learning 🤖, object detection 📸, and machine vision 🖥.
-- 💬 Ask me about ...
 - 📫 How to reach me: [![Email](https://img.shields.io/badge/Email-%40xinanjiao-blue?style=flat&logo=gmail)](mailto:zzh@cqu.std.cn)
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-My name is [Your Name] and I'm a software developer/DevOps engineer. I'm from [Country], currently living in [City] and working at [Company Name].
+- 😄 Pronouns: I enjoy playing badminton 🏸, but I have some knowledge of various ball sports as well ⚽️🏀🏓🏐. I have recently started working out 🏋️‍♂️, looking forward to achieving the physique that I admire 😎😎😎.
+
+### Educational Experience
+- Undergraduate 🎓: Shandong University of Science and Technology, Qingdao, Shandong Province, China
+- Master's Degree 🎓: Chongqing University, Chongqing(My home town😇😇😇), Shapingba District, China
 
 ## 🔧 Technologies & Tools
 
