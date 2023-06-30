@@ -14,11 +14,11 @@
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-PyCharm-informational?style=flat&logo=pycharm&logoColor=white&color=2bbc8a)
 
-<h2>🏆 Github Profile Trophy</h2>
+## 🏆 Github Profile Trophy
 <img width=800 src="https://github-profile-trophy.vercel.app/?username=xinanjiao&column=9&theme=gruvbox&no-frame=true"/>
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=xinanjiao&theme=aura&show_icons=true&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=xinanjiao&theme=aura&show_icons=true&count_private=true"/>
+<img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats"/>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xinanjiao&repo=Road-Vanishing-Point-Detection&theme=shades-of-purple)](https://github.com/xinanjiao/Road-Vanishing-Point-Detection)
 
 ![](https://komarev.com/ghpvc/?username=xinanjiao)
