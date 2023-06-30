@@ -14,8 +14,9 @@ My name is [Your Name] and I'm a software developer/DevOps engineer. I'm from [C
 
 ## 🔧 Technologies & Tools
 
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-PyCharm-informational?style=flat&logo=pycharm&logoColor=white&color=2bbc8a)
+
 <h2>🏆 Github Profile Trophy</h2>
 <img width=800 src="https://github-profile-trophy.vercel.app/?username=xinanjiao&column=9&theme=gruvbox&no-frame=true"/>
 
