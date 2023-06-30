@@ -2,7 +2,7 @@
   I am currently studying at Chongqing University ⛪️ and pursuing a master's degree 🧑‍🎓.
 ### 🥳 My Introduction
 - 🔭 My current research focus is on machine learning 🤖, object detection 📸, and machine vision 🖥.
-- 📫 How to reach me: [![Email](https://img.shields.io/badge/Email-%40xinanjiao-blue?style=flat&logo=gmail)](mailto:zzh@cqu.std.cn)
+- 📫 How to reach me: [![Email](https://img.shields.io/badge/Email-%40xinanjiao-blue?style=flat&logo=gmail)](mailto:zzh@stu.cqu.edu.cn)
 - 😄 Pronouns: I enjoy playing badminton 🏸, but I have some knowledge of various ball sports as well ⚽️🏀🏓🏐. I have recently started working out 🏋️‍♂️, looking forward to achieving the physique that I admire 💪.
 
 ### 🎓 Educational Experience
