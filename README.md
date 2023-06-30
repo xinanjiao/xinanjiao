@@ -6,8 +6,8 @@
 - 😄 Pronouns: I enjoy playing badminton 🏸, but I have some knowledge of various ball sports as well ⚽️🏀🏓🏐. I have recently started working out 🏋️‍♂️, looking forward to achieving the physique that I admire 😎😎😎.
 
 ### Educational Experience
-- Undergraduate 🎓: Shandong University of Science and Technology, Qingdao, Shandong Province, China
-- Master's Degree 🎓: Chongqing University, Chongqing(My home town😇😇😇), Shapingba District, China
+- Undergraduate 🎓: Shandong University of Science and Technology, Qingdao, Shandong Province, China(2018--2022)
+- Master's Degree 🎓: Chongqing University, Chongqing(My home town😇😇😇), Shapingba District, China(2022-Now)
 
 ## 🔧 Technologies & Tools
 
