@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=xinanjiao&theme=aura&show_icons=true&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xinanjiao&repo=Road-Vanishing-Point-Detection&theme=shades-of-purple)](https://github.com/xinanjiao/xinanjiao2)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xinanjiao&repo=Road-Vanishing-Point-Detection&theme=shades-of-purple)](https://github.com/xinanjiao/Road-Vanishing-Point-Detection)
